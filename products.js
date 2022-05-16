@@ -13,7 +13,7 @@ export const productsData = [
   },
   {
     id: 3,
-    title: "summer panel bed",
+    title: "aaa panel bed",
     price: 7.99,
     imageUrl: "./images/product-3.jpeg",
   },
